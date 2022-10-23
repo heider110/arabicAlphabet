@@ -1,0 +1,203 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.alif {
+  background-image: url("imgs/alif.PNG");
+background-color:#EA047E;
+color: #1C6758;
+}
+
+.ba {
+  background-image: url("imgs/ba.PNG");
+  background-color: #FF6D28;
+}
+
+.taa {
+  background-image: url("");
+  background-color: #FCE700;
+}
+
+.thaa {
+  background-image: url("");
+  background-color: #00F5FF;
+}
+
+.djim {
+  background-image: url("");
+  background-color: #38E54D;
+}
+
+.hha {
+  background-image: url("");
+  background-color: #2192FF;
+}
+
+.kha {
+  background-image: url("");
+  background-color: #F637EC;
+}
+
+.dal {
+  background-image: url("");
+  background-color: #5800FF;
+}
+
+.thal {
+  background-image: url("");
+  background-color: #590696;
+}
+
+.ra {
+  background-image: url("");
+  background-color: #D61C4E;
+}
+
+.zay {
+  background-image: url("");
+  background-color: #0096FF;
+}
+
+.sin {
+  background-image: url("");
+  background-color: #14C38E;
+}
+
+.shin {
+  background-image: url("");
+  background-color: #db487c;
+}
+
+.sad {
+  background-image: url("");
+  background-color:#1CD6CE ;
+}
+
+.dhad {
+  background-image: url("");
+  background-color: #bbe868;
+}
+
+.ta {
+  background-image: url("");
+  background-color: #EA047E;
+}
+
+.tha {
+  background-image: url("");
+  background-color: #6055da;
+}
+
+.ayn {
+  background-image: url("");
+  background-color: #FCE700;
+}
+
+.ghayn {
+  background-image: url("");
+  background-color: #38E54D;
+}
+
+.fa {
+  background-image: url("");
+  background-color:#dc7a94;
+}
+
+.qaf {
+  background-image: url("");
+  background-color:#F55353;
+}
+
+.kaf {
+  background-image: url("");
+  background-color:#4D77FF;
+}
+
+.lam {
+  background-image: url("");
+  background-color:#FFD36E;
+}
+
+.mim {
+  background-image: url("");
+  background-color:#541690;
+}
+
+.nun {
+  background-image: url("");
+  background-color:#FB3640;
+}
+
+.haa {
+  background-image: url("");
+  background-color:#77D970;
+}
+
+.waw {
+  background-image: url("");
+  background-color:#1CC5DC;
+}
+
+.ya {
+  background-image: url("");
+  background-color: #DA0463;
+}
+
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 4rem;
+  font-family: 'Amiri', serif;
+  line-height: 2;
+  font-weight: 900;
+  
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+ 
+}
+
+.kid{
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  margin: 0px;
+}
